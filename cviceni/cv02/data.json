@@ -1,0 +1,412 @@
+[
+    {
+        "name": "osevní plocha",
+        "value": 2455567.25,
+        "parent": ""
+    },
+    {
+        "name": "zrniny",
+        "value": 1431368.05,
+        "parent": "osevní plocha"
+    },
+    {
+        "name": "obiloviny na zrno",
+        "value": 1385733.77,
+        "parent": "zrniny"
+    },
+    {
+        "name": "pšenice",
+        "value": 854434.19,
+        "parent": "obiloviny na zrno"
+    },
+    {
+        "name": "pšenice ozimá",
+        "value": 801578.41,
+        "parent": "pšenice"
+    },
+    {
+        "name": "pšenice jarní",
+        "value": 52855.78,
+        "parent": "pšenice"
+    },
+    {
+        "name": "žito",
+        "value": 24123.62,
+        "parent": "obiloviny na zrno"
+    },
+    {
+        "name": "ječmen",
+        "value": 334504.46,
+        "parent": "obiloviny na zrno"
+    },
+    {
+        "name": "ječmen ozimý",
+        "value": 122614.03,
+        "parent": "ječmen"
+    },
+    {
+        "name": "ječmen jarní",
+        "value": 211890.43,
+        "parent": "ječmen"
+    },
+    {
+        "name": "oves",
+        "value": 45147.32,
+        "parent": "obiloviny na zrno"
+    },
+    {
+        "name": "tritikale",
+        "value": 40565.64,
+        "parent": "obiloviny na zrno"
+    },
+    {
+        "name": "kukuřice na zrno",
+        "value": 80175.31,
+        "parent": "obiloviny na zrno"
+    },
+    {
+        "name": "směsky obilovin na zrno ozimé",
+        "value": 324.48,
+        "parent": "obiloviny na zrno"
+    },
+    {
+        "name": "směsky obilovin na zrno jarní",
+        "value": 865.11,
+        "parent": "obiloviny na zrno"
+    },
+    {
+        "name": "ostatní obiloviny na zrno",
+        "value": 5593.64,
+        "parent": "obiloviny na zrno"
+    },
+    {
+        "name": "luskoviny na zrno",
+        "value": 45634.28,
+        "parent": "zrniny"
+    },
+    {
+        "name": "hrách na zrno",
+        "value": 40626.98,
+        "parent": "luskoviny na zrno"
+    },
+    {
+        "name": "lupina na zrno",
+        "value": 1987.88,
+        "parent": "luskoviny na zrno"
+    },
+    {
+        "name": "bob na zrno",
+        "value": 1426.19,
+        "parent": "luskoviny na zrno"
+    },
+    {
+        "name": "ostatní luskoviny na zrno",
+        "value": 1593.23,
+        "parent": "luskoviny na zrno"
+    },
+    {
+        "name": "okopaniny",
+        "value": 80417.0,
+        "parent": "osevní plocha"
+    },
+    {
+        "name": "brambory",
+        "value": 21680.2,
+        "parent": "okopaniny"
+    },
+    {
+        "name": "brambory rané",
+        "value": 1028.7,
+        "parent": "brambory"
+    },
+    {
+        "name": "brambory (mimo raných a sadbových)",
+        "value": 18108.37,
+        "parent": "brambory"
+    },
+    {
+        "name": "brambory sadbové",
+        "value": 2543.13,
+        "parent": "brambory"
+    },
+    {
+        "name": "cukrovka technická",
+        "value": 58238.48,
+        "parent": "okopaniny"
+    },
+    {
+        "name": "krmná řepa",
+        "value": 399.22,
+        "parent": "okopaniny"
+    },
+    {
+        "name": "ostatní okopaniny",
+        "value": 99.1,
+        "parent": "okopaniny"
+    },
+    {
+        "name": "technické plodiny",
+        "value": 444976.7,
+        "parent": "osevní plocha"
+    },
+    {
+        "name": "olejniny",
+        "value": 437077.09,
+        "parent": "technické plodiny"
+    },
+    {
+        "name": "řepka",
+        "value": 343963.82,
+        "parent": "olejniny"
+    },
+    {
+        "name": "slunečnice na semeno",
+        "value": 22484.55,
+        "parent": "olejniny"
+    },
+    {
+        "name": "sója",
+        "value": 28537.95,
+        "parent": "olejniny"
+    },
+    {
+        "name": "mák",
+        "value": 26125.0,
+        "parent": "olejniny"
+    },
+    {
+        "name": "hořčice na semeno",
+        "value": 13020.21,
+        "parent": "olejniny"
+    },
+    {
+        "name": "len na semeno",
+        "value": 1931.69,
+        "parent": "olejniny"
+    },
+    {
+        "name": "ostatní olejniny",
+        "value": 1013.87,
+        "parent": "olejniny"
+    },
+    {
+        "name": "konopí",
+        "value": 342.68,
+        "parent": "technické plodiny"
+    },
+    {
+        "name": "kořeninové rostliny",
+        "value": 3816.6,
+        "parent": "technické plodiny"
+    },
+    {
+        "name": "kmín",
+        "value": 3516.13,
+        "parent": "kořeninové rostliny"
+    },
+    {
+        "name": "ostatní kořeninové rostliny",
+        "value": 300.47,
+        "parent": "kořeninové rostliny"
+    },
+    {
+        "name": "léčivé rostliny",
+        "value": 3471.33,
+        "parent": "technické plodiny"
+    },
+    {
+        "name": "energetické plodiny jinde neuvedené",
+        "value": 200.02,
+        "parent": "technické plodiny"
+    },
+    {
+        "name": "ostatní technické plodiny",
+        "value": 68.98,
+        "parent": "technické plodiny"
+    },
+    {
+        "name": "pícniny na orné půdě",
+        "value": 467363.46,
+        "parent": "osevní plocha"
+    },
+    {
+        "name": "jednoleté pícniny",
+        "value": 257218.98,
+        "parent": "pícniny na orné půdě"
+    },
+    {
+        "name": "kukuřice na zeleno a siláž",
+        "value": 212066.85,
+        "parent": "jednoleté pícniny"
+    },
+    {
+        "name": "obiloviny na zeleno (mimo kukuřici)",
+        "value": 14422.17,
+        "parent": "jednoleté pícniny"
+    },
+    {
+        "name": "jednoleté luskoviny na zeleno",
+        "value": 18997.09,
+        "parent": "jednoleté pícniny"
+    },
+    {
+        "name": "ostatní jednoleté pícniny",
+        "value": 11732.87,
+        "parent": "jednoleté pícniny"
+    },
+    {
+        "name": "víceleté pícniny",
+        "value": 210144.48,
+        "parent": "pícniny na orné půdě"
+    },
+    {
+        "name": "jetel luční (červený)",
+        "value": 55730.6,
+        "parent": "víceleté pícniny"
+    },
+    {
+        "name": "vojtěška",
+        "value": 75328.39,
+        "parent": "víceleté pícniny"
+    },
+    {
+        "name": "ostatní víceleté pícniny",
+        "value": 39544.41,
+        "parent": "víceleté pícniny"
+    },
+    {
+        "name": "dočasné travní porosty a pastviny",
+        "value": 39541.08,
+        "parent": "víceleté pícniny"
+    },
+    {
+        "name": "zelenina konzumní",
+        "value": 11677.98,
+        "parent": "osevní plocha"
+    },
+    {
+        "name": "celer bulvový",
+        "value": 360.23,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "mrkev",
+        "value": 905.1,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "petržel kořenová",
+        "value": 318.05,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "ředkvičky",
+        "value": 473.81,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "červená řepa",
+        "value": 240.86,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "cibule",
+        "value": 1813.35,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "česnek",
+        "value": 317.0,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "kedlubny",
+        "value": 188.56,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "kapusta",
+        "value": 66.99,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "květák a brokolice",
+        "value": 336.69,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "zelí",
+        "value": 960.08,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "okurky nakládačky",
+        "value": 258.32,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "okurky salátové",
+        "value": 27.61,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "rajčata",
+        "value": 197.35,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "papriky",
+        "value": 306.03,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "hrách dřeňový",
+        "value": 1690.85,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "pór",
+        "value": 49.52,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "saláty",
+        "value": 495.17,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "špenát",
+        "value": 542.06,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "ostatní zelenina",
+        "value": 2130.35,
+        "parent": "zelenina konzumní"
+    },
+    {
+        "name": "jahody",
+        "value": 443.63,
+        "parent": "osevní plocha"
+    },
+    {
+        "name": "květiny a okrasné rostliny",
+        "value": 218.54,
+        "parent": "osevní plocha"
+    },
+    {
+        "name": "plocha na semeno a sadbu",
+        "value": 15269.64,
+        "parent": "osevní plocha"
+    },
+    {
+        "name": "školky",
+        "value": 1909.71,
+        "parent": "osevní plocha"
+    },
+    {
+        "name": "ostatní plochy vč. pokusných",
+        "value": 1922.54,
+        "parent": "osevní plocha"
+    }
+]
